@@ -27,7 +27,7 @@ int main(){
 	 printf("---------floating point----------\n");
 	 printf("float : value = %f, size = %zu byte \n",f,sizeof(f));
 	 printf("double : value = %lf, size = %zu byte \n",d,sizeof(d));
-	 printf("long double : value = %.10Lf, size = %zu byte \n",ld,sizeof(ld));
+	 printf("long double : value = %Lf, size = %zu byte \n",ld,sizeof(ld));
 
 
 	
